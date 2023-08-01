@@ -2,7 +2,8 @@
 
 Welcome! This respostitory contains my solution for [Rocketseat´s](https://www.rocketseat.com.br/ignite?utm_source=influencer&utm_medium=publipost&utm_campaign=lead&utm_term=ignite&utm_content=lead-ignite-publipost-organic-cupom_KIPPERDEV-none-none-none-none-redes_kipperdev&referral=kipperdev&coupon=KIPPERDEV@IGNITE) open source [Frontend Challenge](https://github.com/Rocketseat/frontend-challenge).
 
-![Prototype](./.github/prototype.png)
+![prototype](https://github.com/jvsobraz/Caputeeno/assets/100175547/a687a9c8-05f3-43aa-9777-c8c59f1db084)
+
 
 # 🧠 About
 
